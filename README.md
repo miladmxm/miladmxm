@@ -17,7 +17,6 @@
 ![Storybook](https://img.shields.io/static/v1?logo=Storybook&label=&message=Storybook&color=15161a&logoWidth=15&logoColor=60c9fb&style=flat)
 ![npm](https://img.shields.io/static/v1?logo=npm&label=&message=npm&color=15161a&logoWidth=15&logoColor=60c9fb&style=flat)
 ![Nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=15161a&logoWidth=15&logoColor=60c9fb&style=flat)
-![Express](https://img.shields.io/static/v1?logo=Express&label=&message=Express&color=15161a&logoWidth=15&logoColor=60c9fb&style=flat)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=Postgresql&color=15161a&logoWidth=15&logoColor=60c9fb&style=flat)
 ![Redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis&color=15161a&logoWidth=15&logoColor=60c9fb&style=flat)
 ![Redis](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=15161a&logoWidth=15&logoColor=60c9fb&style=flat)
